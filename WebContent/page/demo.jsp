@@ -25,6 +25,9 @@
 					<input type="text" class="form-control" id="sqr" name="sqr">
 				</div>
 			</div>
+			
+			
+			
 
 			<div class="form-group">
 				<label for="sqbm" class="col-md-2 control-label">申请部门</label>
